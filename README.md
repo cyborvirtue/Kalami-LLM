@@ -1,1 +1,2 @@
-# Kalami-Empowering-Research-LLM-Through-Intelligent-Collaboration
+#Kalami-LLM
+Empowering Research and Study Through Intelligent Collaboration
